@@ -4,6 +4,9 @@ click the link for downloading 👉🏻 [ESL RECORD 09-22-2023 18.06.pdf](https:
 
 pics to printout and stick on the record 👉🏻 [EEE_rec_pic (1).pdf](https://github.com/CsCep-DevOps/Cs-DevOps/files/12700894/EEE_rec_pic.1.pdf)
 
+Record book sample 👉🏻[BEE Workshop.pdf](https://github.com/CsCep-DevOps/Cs-DevOps/files/12700922/BEE.Workshop.pdf)
+
+
 
 ![836da697-7459-4a9c-bb93-587a52bf8a91](https://github.com/CsCep-DevOps/Cs-DevOps/assets/145749590/1dd5188f-4f9b-40cd-b82d-9a024d100d25)
 ![e23994a9-c9e0-42d4-bbf3-5ac1ba6e6a4a](https://github.com/CsCep-DevOps/Cs-DevOps/assets/145749590/d0c8dd45-9a0c-43ec-afbe-a17c0000da5b)
