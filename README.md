@@ -8,9 +8,13 @@ Author: Adithyan B Raj(TBR)
 ## Notes 
 
 - [Electrical and Electronics](#ESL-record)
+- [Chemistry](#Chemistry-Record)
 
 
 ### ESL Record
 - module1:https://github.com/CsCep-DevOps/Cs-DevOps/blob/main/index.md
+
+### Chemistry Record
+- module1:
 
 
