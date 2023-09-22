@@ -11,7 +11,6 @@ Author: Adithyan B Raj(TBR)
 
 
 ### Chemistry Record
-- [module1][C Programming-Weekly Test 01 Discussion Notes.pdf.pdf](https://github.com/CsCep-DevOps/Cs-DevOps/files/12699930/C.Programming-Weekly.Test.01.Discussion.Notes.pdf.pdf)
-
+- [module1]https://github.com/CsCep-DevOps/localRepo
 
 
