@@ -7,7 +7,7 @@ Author: Adithyan B Raj(TBR)
 
 ## Notes 
 
-- [Chemisry]
+- [Chemisry](#chemistry-record)
 
 
 ### Chemistry Record
