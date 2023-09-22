@@ -15,6 +15,6 @@ Author: Adithyan B Raj(TBR)
 - module1:https://github.com/CsCep-DevOps/Cs-DevOps/blob/main/index.md
 
 ### Chemistry Record
-- module1:
+- module1:https://github.com/CsCep-DevOps/Cs-DevOps/blob/main/index2.md
 
 
