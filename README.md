@@ -11,10 +11,10 @@ Author: Adithyan B Raj(TBR)
 - [Chemistry](#Chemistry-Record)
 
 
-### ESL Record
+### ESL130 Record
 - module1:https://github.com/CsCep-DevOps/Cs-DevOps/blob/main/index.md
 
-### Chemistry Record
+### CYT100 Record
 - module1:https://github.com/CsCep-DevOps/Cs-DevOps/blob/main/index2.md
 
 
