@@ -6,3 +6,11 @@ This is my first Repository
 Author: Adithyan B Raj(TBR)
 
 ## Notes 
+
+- [Chemisry]
+
+
+### Chemistry Record
+- [module1]
+
+
