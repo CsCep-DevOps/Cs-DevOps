@@ -1,5 +1,7 @@
 
 # ESL 130(Electrical and Elctronics Lab)
+click the link for downloading 👉🏻 [CamScanner 09-22-2023 18.06.pdf](https://github.com/CsCep-DevOps/Cs-DevOps/files/12700804/CamScanner.09-22-2023.18.06.pdf)
+
 ![836da697-7459-4a9c-bb93-587a52bf8a91](https://github.com/CsCep-DevOps/Cs-DevOps/assets/145749590/1dd5188f-4f9b-40cd-b82d-9a024d100d25)
 ![e23994a9-c9e0-42d4-bbf3-5ac1ba6e6a4a](https://github.com/CsCep-DevOps/Cs-DevOps/assets/145749590/d0c8dd45-9a0c-43ec-afbe-a17c0000da5b)
 ![aa86c1d4-c872-4f5a-be61-6b557325891d](https://github.com/CsCep-DevOps/Cs-DevOps/assets/145749590/ac0ba70d-b263-497e-9f29-6c598a6141dd)
