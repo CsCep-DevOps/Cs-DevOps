@@ -5,4 +5,4 @@ This is my first Repository
 <br>
 Author: Adithyan B Raj(TBR)
 
-##`#0969DA` Notes 
+## Notes 
