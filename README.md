@@ -19,6 +19,5 @@ Author: Adithyan B Raj(TBR)
 - module1:https://github.com/CsCep-DevOps/Cs-DevOps/blob/main/index2.md
 
 
-https://github.com/CsCep-DevOps/Cs-DevOps/assets/145749590/da7ab9aa-e9c6-4f1e-8af2-a06d4ea12823
 
 
