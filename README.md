@@ -7,8 +7,8 @@ Author: Adithyan B Raj(TBR)
 
 ## Notes 
 
-- [Electrical and Electronics](#ESL-record)
-- [Chemistry](#Chemistry-Record)
+- [Electrical and Electronics](#ESL130-record)
+- [Chemistry](#CYT100-Record)
 
 
 ### ESL130 Record
