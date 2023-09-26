@@ -10,6 +10,7 @@ Author: Adithyan B Raj(TBR)
 
 - [Electrical and Electronics](#ESL130-Record)
 - [Chemistry](#CYT100-Record)
+- [Engg. Mechanics]
 
 
 ### ESL130 Record
