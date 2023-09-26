@@ -8,16 +8,21 @@ Author: Adithyan B Raj(TBR)
 
 ## Notes 
 
-- [Electrical and Electronics](#ESL130-Record)
-- [Chemistry](#CYT100-Record)
-- [Engg. Mechanics]
+- [Electrical and Electronics](#ESL130)
+- [Chemistry](#CYT100)
+- [Engg. Mechanics](#EST100)
 
 
-### ESL130 Record
+### ESL130
 - module1:https://github.com/CsCep-DevOps/Cs-DevOps/blob/main/index.md
 
-### CYT100 Record
+### CYT100
 - module1:https://github.com/CsCep-DevOps/Cs-DevOps/blob/main/index2.md
+
+### EST100
+- module1(Theory notes):https://github.com/CsCep-DevOps/Cs-DevOps/blob/main/Index3.md
+
+
 
 
 
