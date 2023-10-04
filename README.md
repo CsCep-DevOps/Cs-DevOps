@@ -14,7 +14,8 @@ Author: Adithyan B Raj(TBR)
 
 
 ### ESL130
--module1(record):https://github.com/CsCep-DevOps/Cs-DevOps/blob/main/index.md
+-module1
+(record):https://github.com/CsCep-DevOps/Cs-DevOps/blob/main/index.md
 
 ### CYT100
 - module1(record):https://github.com/CsCep-DevOps/Cs-DevOps/blob/main/index2.md
